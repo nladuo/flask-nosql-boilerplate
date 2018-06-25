@@ -1,5 +1,5 @@
 # flask-nosql-boilerplate
-A pure backend boilerplate for Flask using  mongodb and redis.
+A pure backend boilerplate for Flask when using mongodb and redis.
 
 ## Installation
 ``` sh
