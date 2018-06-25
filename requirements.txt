@@ -1,0 +1,6 @@
+pymongo
+Flask
+Flask-script
+Flask-PyMongo
+redis
+uwsgi
